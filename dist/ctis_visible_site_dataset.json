@@ -1,0 +1,801 @@
+{
+  "source": "CTIS visible page seed",
+  "capturedAt": "2026-04-02",
+  "pageMeta": {
+    "title": "국가개황 : 개발도상국 협력전략지도",
+    "url": "https://ctis.re.kr/dcsm/gis/countryoverview/map?mid=a10100000000&code_cd=01010000000000",
+    "countryCode": "01010000000000",
+    "menus": ["국가개황", "중점협력", "협력지역", "협력전략"],
+    "categoryTabs": [
+      "전체",
+      "국가개요",
+      "정치현황",
+      "사회·경제현황",
+      "정책현황",
+      "에너지·환경 현황",
+      "한국과의 협력 기반"
+    ],
+    "countryOptions": [
+      "베트남 사회주의 공화국",
+      "나이지리아",
+      "콜롬비아",
+      "이집트",
+      "우즈베키스탄",
+      "인도",
+      "케냐",
+      "페루",
+      "요르단",
+      "카자흐스탄",
+      "인도네시아",
+      "에티오피아",
+      "볼리비아",
+      "예멘",
+      "키르기스스탄",
+      "필리핀",
+      "탄자니아",
+      "몰도바",
+      "방글라데시",
+      "가나",
+      "아르메니아"
+    ],
+    "dataStates": {
+      "map": "지도를 불러오는 중입니다",
+      "regionDetail": "지역을 선택하면 상세 정보가 표시됩니다.",
+      "currentIndicator": "지표를 선택하면 상세 정보가 표시됩니다."
+    }
+  },
+  "country": {
+    "code": "01010000000000",
+    "nameKo": "베트남 사회주의 공화국",
+    "nameEn": "Socialist Republic of Vietnam",
+    "region": "아시아",
+    "subregion": "동남아시아",
+    "overview": [
+      {
+        "label": "수도",
+        "value": "하노이",
+        "source": "CTIS 국가개요"
+      },
+      {
+        "label": "인구",
+        "value": "1억 130만명",
+        "source": "CTIS 국가개요"
+      },
+      {
+        "label": "면적",
+        "value": "33만 1,332㎢",
+        "source": "CTIS 국가개요"
+      },
+      {
+        "label": "언어",
+        "value": "베트남어",
+        "source": "CTIS 국가개요"
+      },
+      {
+        "label": "화폐단위",
+        "value": "동(VND)",
+        "source": "CTIS 국가개요"
+      },
+      {
+        "label": "1인당 GDP",
+        "value": "4,700$",
+        "source": "CTIS 국가개요"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "overview",
+      "title": "국가개요",
+      "body": "CTIS 페이지의 국가개요 영역에서 국가 기본정보, 지도, 지역 선택, 현재지표 진입 구조를 확인할 수 있습니다."
+    },
+    {
+      "key": "politics",
+      "title": "정치현황",
+      "body": "CTIS 본문 탭 구조상 정치현황 섹션이 제공됩니다."
+    },
+    {
+      "key": "socioeconomy",
+      "title": "사회·경제현황",
+      "body": "CTIS 본문 탭 구조상 사회·경제현황 섹션이 제공됩니다."
+    },
+    {
+      "key": "policy",
+      "title": "정책현황",
+      "body": "CTIS 본문 탭 구조상 정책현황 섹션이 제공됩니다."
+    },
+    {
+      "key": "energy-environment",
+      "title": "에너지·환경 현황",
+      "body": "CTIS 본문 탭 구조상 에너지·환경 현황 섹션이 제공됩니다."
+    },
+    {
+      "key": "cooperation",
+      "title": "한국과의 협력 기반",
+      "body": "CTIS 본문 탭 구조상 한국과의 협력 기반 섹션이 제공됩니다."
+    }
+  ],
+  "indicators": [
+    {
+      "key": "capital",
+      "label": "수도",
+      "value": "하노이",
+      "unit": "-",
+      "note": "국가개요"
+    },
+    {
+      "key": "population",
+      "label": "인구",
+      "value": "1억 130만",
+      "unit": "명",
+      "note": "국가개요"
+    },
+    {
+      "key": "area",
+      "label": "면적",
+      "value": "33만 1,332",
+      "unit": "㎢",
+      "note": "국가개요"
+    },
+    {
+      "key": "language",
+      "label": "언어",
+      "value": "베트남어",
+      "unit": "-",
+      "note": "국가개요"
+    },
+    {
+      "key": "currency",
+      "label": "화폐단위",
+      "value": "동(VND)",
+      "unit": "-",
+      "note": "국가개요"
+    },
+    {
+      "key": "gdp_per_capita",
+      "label": "1인당 GDP",
+      "value": "4,700",
+      "unit": "USD",
+      "note": "국가개요"
+    }
+  ],
+  "regions": [
+    {
+      "id": "vn-region-1",
+      "name": "카인호아성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-2",
+      "name": "닌투언성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-3",
+      "name": "떠이닌성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-4",
+      "name": "동나이성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-5",
+      "name": "빈즈엉성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-6",
+      "name": "빈프억성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-7",
+      "name": "럼동성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-8",
+      "name": "빈롱성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-9",
+      "name": "껀터",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-10",
+      "name": "띠엔장성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-11",
+      "name": "동탑성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-12",
+      "name": "안장성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-13",
+      "name": "롱안성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-14",
+      "name": "호치민시",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-15",
+      "name": "빈투언성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-16",
+      "name": "속짱성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-17",
+      "name": "짜빈성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-18",
+      "name": "바리어붕따우성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-19",
+      "name": "벤째성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-20",
+      "name": "하우장성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-21",
+      "name": "끼엔장성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-22",
+      "name": "까마우성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-23",
+      "name": "박리에우성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-24",
+      "name": "다낭",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-25",
+      "name": "꽝찌성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-26",
+      "name": "후에",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-27",
+      "name": "꽝빈성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-28",
+      "name": "닥농성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-29",
+      "name": "닥락성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-30",
+      "name": "푸옌성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-31",
+      "name": "잘라이성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-32",
+      "name": "꽝남성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-33",
+      "name": "꽝응아이",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-34",
+      "name": "꼰뚬성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-35",
+      "name": "빈딘성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-36",
+      "name": "디엔비엔성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-37",
+      "name": "하노이",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-38",
+      "name": "하이즈엉성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-39",
+      "name": "랑선성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-40",
+      "name": "꽝닌성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-41",
+      "name": "박닌성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-42",
+      "name": "박장성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-43",
+      "name": "푸토성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-44",
+      "name": "빈푹성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-45",
+      "name": "선라성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-46",
+      "name": "타이응우옌성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-47",
+      "name": "옌바이성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-48",
+      "name": "뚜옌꽝성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-49",
+      "name": "박깐성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-50",
+      "name": "라오까이성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-51",
+      "name": "하장성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-52",
+      "name": "까오방성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-53",
+      "name": "라이쩌우성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-54",
+      "name": "타인호아성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-55",
+      "name": "응에안성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-56",
+      "name": "하띤성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-57",
+      "name": "닌빈성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-58",
+      "name": "호아빈성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-59",
+      "name": "하남성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-60",
+      "name": "하이퐁",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-61",
+      "name": "타이빈성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-62",
+      "name": "남딘성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    },
+    {
+      "id": "vn-region-63",
+      "name": "흥옌성",
+      "center": null,
+      "boundary": null,
+      "summary": "CTIS 지도에서 선택 가능한 지역 항목",
+      "details": [
+        "추가 세부 정보는 관리자 업로드 또는 후속 정규화 데이터로 확장"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "CTIS 국가개황 베트남 페이지",
+      "href": "https://ctis.re.kr/dcsm/gis/countryoverview/map?mid=a10100000000&code_cd=01010000000000",
+      "group": "CTIS"
+    }
+  ]
+}

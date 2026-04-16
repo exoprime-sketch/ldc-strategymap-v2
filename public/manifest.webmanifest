@@ -1,0 +1,28 @@
+{
+  "name": "개도국 기후기술 전략 데이터 플랫폼",
+  "short_name": "Climate Strategy",
+  "description": "개도국 국제협력 사전기획과 전략 스크리닝을 위한 지도형 데이터 플랫폼",
+  "start_url": "/?view=platform",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ]
+}

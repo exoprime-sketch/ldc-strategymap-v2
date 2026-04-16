@@ -1,0 +1,274 @@
+{
+  "meta": {
+    "version": "2026-03-19d",
+    "description": "Verified official links used by the climate-tech strategy platform, expanded for the 10 current recommendation countries. Country cards should prefer country-specific official pages and only fall back to broader portals when a direct country page is unavailable.",
+    "countries": ["VN", "KH", "LA", "MX", "KE", "CL", "FJ", "BR", "GH", "SN"]
+  },
+  "global": {
+    "worldBankProjectsPortal": "https://projects.worldbank.org/en/projects-operations/projects-home",
+    "adbProjectsPortal": "https://www.adb.org/projects",
+    "gcfProjectsPortal": "https://www.greenclimate.fund/projects",
+    "gcfDataPortal": "https://data.greenclimate.fund/",
+    "worldBankDataPortal": "https://data.worldbank.org/",
+    "nasaPower": "https://power.larc.nasa.gov/",
+    "worldBankClimateKnowledgePortal": "https://climateknowledgeportal.worldbank.org/",
+    "worldBankData360": "https://data360.worldbank.org/en/about",
+    "ndGainCountryIndex": "https://gain.nd.edu/our-work/country-index/",
+    "thinkHazard": "https://thinkhazard.org/",
+    "climateWatch": "https://www.climatewatchdata.org/",
+    "ttClear": "https://unfccc.int/ttclear/",
+    "globalSolarAtlas": "https://globalsolaratlas.info/",
+    "globalWindAtlas": "https://globalwindatlas.info/",
+    "irenaGlobalAtlas": "https://globalatlas.irena.org/",
+    "worldBankClimateKnowledgePortalExplore": "https://climateknowledgeportal.worldbank.org/explore",
+    "worldBankClimateKnowledgePortalCountryProfiles": "https://climateknowledgeportal.worldbank.org/country-profiles",
+    "worldBankClimateKnowledgePortalDownload": "https://climateknowledgeportal.worldbank.org/download-data",
+    "climateWatchCompareTargets": "https://www.climatewatchdata.org/compare-all-targets",
+    "climateWatchCustomCompare": "https://www.climatewatchdata.org/custom-compare",
+    "gcfCountriesDatabase": "https://data.greenclimate.fund/public/data/countries",
+    "gcfProjectsDatabase": "https://data.greenclimate.fund/public/data/projects",
+    "gcfReadinessDatabase": "https://data.greenclimate.fund/public/data/readiness",
+    "ttClearAbout": "https://unfccc.int/ttclear/about",
+    "ttClearNegotiations": "https://unfccc.int/ttclear/negotiations",
+    "thinkHazardFaq": "https://thinkhazard.org/en/faq",
+    "irenaGlobalAtlasOverview": "https://www.irena.org/Energy-Transition/Project-Facilitation/Renewable-potential-assessment/Global-Atlas"
+  },
+  "VN": {
+    "country": {
+      "worldBankData": "https://data.worldbank.org/country/viet-nam",
+      "gcfCountry": "https://www.greenclimate.fund/countries/viet-nam",
+      "adbCountry": "https://www.adb.org/where-we-work/viet-nam",
+      "vnmc": "https://vnmc.gov.vn/?lang=en",
+      "imh": "https://imh.ac.vn/"
+    },
+    "documents": {
+      "undpNap": "https://www.undp.org/vietnam/publications/viet-nam-nap-2021-2030-vision-2050",
+      "ndcDocument": "https://unfccc.int/documents/622541"
+    },
+    "projects": {
+      "wbMekongDelta": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/698771493115851726",
+      "adb43295_012": "https://www.adb.org/sites/default/files/project-documents/43295-012-tacr-03b_0.pdf",
+      "gcfFp013": "https://www.greenclimate.fund/project/fp013",
+      "gcfFp071": "https://www.greenclimate.fund/project/fp071",
+      "gcfFp125": "https://www.greenclimate.fund/project/fp125"
+    },
+    "partners": {
+      "canThoPortal": "https://www.cantho.gov.vn/home",
+      "canThoUniversity": "https://en.ctu.edu.vn/",
+      "anGiangPortal": "https://angiang.gov.vn/en",
+      "caMauPortal": "https://english.camau.gov.vn/",
+      "dakLakPortal": "https://daklak.gov.vn/web/english",
+      "siwrr": "https://www.siwrr.org.vn/?lang=e"
+    },
+    "data": {
+      "population": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=VN",
+      "gdpPerCapita": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=VN",
+      "electricityAccess": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?locations=VN"
+    }
+  },
+  "KH": {
+    "country": {
+      "worldBankData": "https://data.worldbank.org/country/cambodia",
+      "gcfCountry": "https://www.greenclimate.fund/countries/cambodia",
+      "adbCountry": "https://www.adb.org/where-we-work/cambodia/projects-results",
+      "moe": "https://moe.gov.kh/en",
+      "dcc": "https://ncsd.moe.gov.kh/dcc/department-climate-change"
+    },
+    "documents": {
+      "ndcRegistry": "https://unfccc.int/NDCREG",
+      "napSectoral": "https://napcentral.org/sectoral-naps"
+    },
+    "projects": {
+      "gcfFp199": "https://www.greenclimate.fund/project/fp199"
+    },
+    "partners": {
+      "rua": "https://www.rua.edu.kh/"
+    },
+    "data": {
+      "population": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=KH",
+      "gdpPerCapita": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=KH",
+      "electricityAccess": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?locations=KH"
+    }
+  },
+  "LA": {
+    "country": {
+      "worldBankData": "https://data.worldbank.org/country/lao-pdr",
+      "gcfCountry": "https://www.greenclimate.fund/countries/lao-pdr",
+      "adbCountry": "https://www.adb.org/where-we-work/lao-pdr/projects-results",
+      "monre": "https://www.monre.gov.la/",
+      "cfmrv": "https://cfmrv.monre.gov.la/about"
+    },
+    "documents": {
+      "ndcRegistry": "https://unfccc.int/NDCREG",
+      "submittedNaps": "https://napcentral.org/submitted-NAPs"
+    },
+    "projects": {
+      "gcfFp117": "https://www.greenclimate.fund/project/fp117"
+    },
+    "partners": {
+      "nuol": "https://www.nuol.edu.la/index.php/en/",
+      "nfms": "https://nfms.maf.gov.la/"
+    },
+    "data": {
+      "population": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=LA",
+      "gdpPerCapita": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=LA",
+      "electricityAccess": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?locations=LA"
+    }
+  },
+  "MX": {
+    "country": {
+      "worldBankData": "https://data.worldbank.org/country/mexico",
+      "gcfCountry": "https://www.greenclimate.fund/countries/mexico",
+      "semarnat": "https://www.gob.mx/semarnat"
+    },
+    "documents": {
+      "ndcDocument": "https://unfccc.int/documents/654344",
+      "gcfCountryProgramme": "https://www.greenclimate.fund/document/mexico-country-programme"
+    },
+    "projects": {
+      "gcfCountryProjects": "https://www.greenclimate.fund/countries/mexico"
+    },
+    "partners": {
+      "semarnat": "https://www.gob.mx/semarnat"
+    },
+    "data": {
+      "population": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MX",
+      "gdpPerCapita": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=MX",
+      "electricityAccess": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?locations=MX"
+    }
+  },
+  "KE": {
+    "country": {
+      "worldBankData": "https://data.worldbank.org/country/kenya",
+      "gcfCountry": "https://www.greenclimate.fund/countries/kenya",
+      "kcckp": "https://www.kcckp.go.ke/",
+      "kenyaMeteo": "https://meteo.go.ke/"
+    },
+    "documents": {
+      "ndcDocument": "https://unfccc.int/node/646649",
+      "napSummary": "https://napcentral.org/nap-summaries/kenya"
+    },
+    "projects": {
+      "wbWaterSecurity": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099120624085033937"
+    },
+    "partners": {
+      "nema": "https://nema.go.ke/"
+    },
+    "data": {
+      "population": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=KE",
+      "gdpPerCapita": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=KE",
+      "electricityAccess": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?locations=KE"
+    }
+  },
+  "CL": {
+    "country": {
+      "worldBankData": "https://data.worldbank.org/country/chile",
+      "gcfCountry": "https://www.greenclimate.fund/countries/chile",
+      "mma": "https://mma.gob.cl/"
+    },
+    "documents": {
+      "lts": "https://unfccc.int/sites/default/files/resource/CHL_LTS_2021_EN_0.pdf",
+      "ndcRegistry": "https://unfccc.int/NDCREG"
+    },
+    "projects": {
+      "gcfCountryProjects": "https://www.greenclimate.fund/countries/chile"
+    },
+    "partners": {
+      "mma": "https://mma.gob.cl/"
+    },
+    "data": {
+      "population": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CL",
+      "gdpPerCapita": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=CL",
+      "electricityAccess": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?locations=CL"
+    }
+  },
+  "FJ": {
+    "country": {
+      "worldBankData": "https://data.worldbank.org/country/fiji",
+      "gcfCountry": "https://www.greenclimate.fund/countries/fiji",
+      "fijiClimatePortal": "https://fijiclimatechangeportal.gov.fj/",
+      "environmentMinistry": "https://directory.digital.gov.fj/directory/organisation?orgId=138",
+      "adbCountry": "https://www.adb.org/where-we-work/fiji/overview"
+    },
+    "documents": {
+      "ndcRegistry": "https://unfccc.int/NDCREG"
+    },
+    "projects": {
+      "gcfCountryProjects": "https://www.greenclimate.fund/countries/fiji"
+    },
+    "partners": {
+      "climatePortal": "https://fijiclimatechangeportal.gov.fj/"
+    },
+    "data": {
+      "population": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=FJ",
+      "gdpPerCapita": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=FJ",
+      "electricityAccess": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?locations=FJ"
+    }
+  },
+  "BR": {
+    "country": {
+      "worldBankData": "https://data.worldbank.org/country/brazil",
+      "gcfCountry": "https://www.greenclimate.fund/countries/brazil",
+      "mma": "https://www.gov.br/mma/pt-br",
+      "mreClimate": "https://www.gov.br/mre/en/subjects/sustainable-development-and-the-environment/environment-and-climate-change"
+    },
+    "documents": {
+      "ndcRegistry": "https://unfccc.int/NDCREG"
+    },
+    "projects": {
+      "gcfCountryProjects": "https://www.greenclimate.fund/countries/brazil"
+    },
+    "partners": {
+      "mma": "https://www.gov.br/mma/pt-br"
+    },
+    "data": {
+      "population": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BR",
+      "gdpPerCapita": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=BR",
+      "electricityAccess": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?locations=BR"
+    }
+  },
+  "GH": {
+    "country": {
+      "worldBankData": "https://data.worldbank.org/country/ghana",
+      "gcfCountry": "https://www.greenclimate.fund/countries/ghana",
+      "mesti": "https://mesti.gov.gh/",
+      "epa": "https://www.epa.gov.gh/"
+    },
+    "documents": {
+      "ndcRegistry": "https://unfccc.int/NDCREG"
+    },
+    "projects": {
+      "gcfCountryProjects": "https://www.greenclimate.fund/countries/ghana"
+    },
+    "partners": {
+      "mestiEnvironment": "https://mesti.gov.gh/environment/"
+    },
+    "data": {
+      "population": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=GH",
+      "gdpPerCapita": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=GH",
+      "electricityAccess": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?locations=GH"
+    }
+  },
+  "SN": {
+    "country": {
+      "worldBankData": "https://data.worldbank.org/country/senegal",
+      "gcfCountry": "https://www.greenclimate.fund/countries/senegal",
+      "environmentMinistry": "https://www.geosenegal.gouv.sn/%2B-ministere-de-l-environnement-et-du-developpement-durable-%2B.html",
+      "government": "https://www.presidence.sn/en/institutions/le-gouvernement/"
+    },
+    "documents": {
+      "ndcRegistry": "https://unfccc.int/NDCREG"
+    },
+    "projects": {
+      "gcfCountryProjects": "https://www.greenclimate.fund/countries/senegal"
+    },
+    "partners": {
+      "environmentMinistry": "https://www.geosenegal.gouv.sn/%2B-ministere-de-l-environnement-et-du-developpement-durable-%2B.html"
+    },
+    "data": {
+      "population": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SN",
+      "gdpPerCapita": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=SN",
+      "electricityAccess": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?locations=SN"
+    }
+  }
+}
